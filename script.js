@@ -55,11 +55,11 @@ restaurantGit.addEventListener("click", function() {
 })
 
 login.addEventListener("click", function() {
-    window.open("https://darkwood23.github.io/Login-Page")
+    window.open("https://memory-game-sigma-one.vercel.app/")
 })
 
 loginGit.addEventListener("click", function() {
-    window.open("https://github.com/darkwood23/Login-Page")
+    window.open("https://github.com/darkwood23/Memory-Game")
 })
 
 todo.addEventListener('click', function() {
