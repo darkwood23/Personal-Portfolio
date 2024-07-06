@@ -1,7 +1,7 @@
 const github = document.getElementById("github-icon")
 
-const bomb = document.getElementById("bomb")
-const bombGit = document.getElementById("bomb-github")
+const messaging = document.getElementById("messaging")
+const messagingGit = document.getElementById("messaging-github")
 
 const tic = document.getElementById("tic")
 const ticGit = document.getElementById("tic-github")
@@ -22,12 +22,12 @@ github.addEventListener("click", function() {
     window.open("https://github.com/darkwood23")
 })
 
-bomb.addEventListener('click', function() {
+messaging.addEventListener('click', function() {
     window.open("https://darkwood23.github.io/Hydrogen-bomb")
 })
 
-bombGit.addEventListener('click', function() {
-    window.open("https://github.com/darkwood23/Hydrogen-bomb")
+messagingGit.addEventListener('click', function() {
+    window.open("https://github.com/darkwood23/THE_MESSAGING_APP")
 })
 
 tic.addEventListener("click", function() {
