@@ -23,7 +23,7 @@ github.addEventListener("click", function() {
 })
 
 messaging.addEventListener('click', function() {
-    window.open("https://darkwood23.github.io/Hydrogen-bomb")
+    window.open("https://the-messaging-app.onrender.com/")
 })
 
 messagingGit.addEventListener('click', function() {
